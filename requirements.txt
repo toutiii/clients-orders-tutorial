@@ -1,2 +1,7 @@
+alembic
 fastapi==0.115.0
 uvicorn==0.30.6
+SQLAlchemy==2.0.36
+psycopg2-binary
+pydantic==2.12.4
+pydantic[email]
